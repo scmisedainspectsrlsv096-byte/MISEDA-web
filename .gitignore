@@ -1,0 +1,8 @@
+# secrete si chei - niciodata in git
+tls/
+*.pem
+*.key
+*.log
+.secrets/
+# nimic din datele firmei
+*.db
